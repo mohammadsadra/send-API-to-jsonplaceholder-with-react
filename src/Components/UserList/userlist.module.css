@@ -1,0 +1,8 @@
+.userContainer{
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    padding: 50px;
+    max-width: 800px;
+    border: 2px white solid;
+}
